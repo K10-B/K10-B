@@ -1,4 +1,4 @@
-### <div align="center">I'm Kent, a Computer Science student at Central Philippine University </div>  
+### <div align="center">I'm Kent, an aspiring Computer Science student at Central Philippine University </div>  
 
 
 - 👀 I’m interested in Software Development
