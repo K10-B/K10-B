@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in Web/Software Development
-- 🌱 I’m currently learning React and Javascript
+- 🌱 I’m currently learning PHP and Javascript
 - ⚡ Fun fact: I use tabs over spaces  
 
 <br/>  
