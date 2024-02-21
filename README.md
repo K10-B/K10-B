@@ -1,9 +1,8 @@
 ### <div align="center">I'm Kent, an aspiring Computer Science student at Central Philippine University </div>  
 
 
-- 👀 I’m interested in Web/Software Development
-- 🌱 I’m currently learning PHP and Javascript
-- ⚡ Fun fact: I use tabs over spaces  
+-  I’m interested in Web/Software Development
+-  I’m currently learning C#
 
 <br/>  
 
