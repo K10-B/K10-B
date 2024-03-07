@@ -2,7 +2,7 @@
 
 
 -  I’m interested in Web/Software Development
--  I’m currently learning C#
+-  I’m currently learning Python
 
 <br/>  
 
