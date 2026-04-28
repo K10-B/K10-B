@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kent Bryle Pari-an</h1>
-<h3 align="center">An aspiring Computer Science student at Central Philippine University</h3>
+<h3 align="center">Hey! I'm Kent Bryle Pari-an, a fresh BS Computer Science graduate from Central Philippine University. I'm passionate about building web interfaces that are both functional and visually sharp.</h3>
 
 - 🌱 I’m currently learning **Python**
 
