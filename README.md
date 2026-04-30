@@ -1,34 +1,112 @@
-<h1 align="center">Hi 👋, I'm Kent Bryle Pari-an</h1>
+# 👋 Hi, I'm Kent Bryle Pari-an
 
-<h3 align="center">Hey! I'm Kent Bryle Pari-an, a fresh BS Computer Science graduate from Central Philippine University. I'm passionate about building web interfaces that are both functional and visually sharp.</h3>
+Full-Stack Developer passionate about building responsive, user-friendly, and visually appealing web applications.
 
-<p align="center">🌱 I’m currently learning <b>React</b></p>
-<p align="center">📫 How to reach me <a href="mailto:kentbrylep@gmail.com"><b>kentbrylep@gmail.com</b></a></p>
+Skilled in *HTML, CSS, JavaScript, React, Tailwind CSS, Python, Flask, and SQL*, and experienced in developing *full-stack web applications and AI-powered tools*. I enjoy building systems that combine *modern web technologies, automation, and AI-driven features*.
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
-  <a href="https://fb.com/kent.parian" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>&nbsp;
-  <a href="https://instagram.com/__kentp" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="center">Languages and Tools</h3>
-<p align="center">
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>&nbsp;
-  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/></a>&nbsp;
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>&nbsp;
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/></a>&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
-</p>
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k10-b&show_icons=true&locale=en&layout=compact" alt="k10-b" />
-</p>
+- 💻 Full-Stack Developer focused on *frontend and backend web development*
+- 🧠 Skilled in *building responsive UI, API development, and database integration*
+- 📈 Experienced in developing *AI-powered applications and SaaS platforms*
+- ☁️ Working with *modern frameworks, REST APIs, and cloud-based tools*
+- 🌐 Building *scalable and user-friendly web applications*
+- 🤖 Exploring *AI integrations, NLP, and automation tools*
+- 📚 Continuously learning *advanced full-stack development and system design*
+
+---
+
+# 🛠 Tech Stack
+
+## 👨‍💻 Programming & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+---
+
+## 📊 Data / Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🗄 Databases & Cloud
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge)
+
+---
+
+## 🌐 Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## 🧰 Tools
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+---
+
+# 💼 Experience
+
+### Software Developer Intern  
+*Callbox*  
+January 2025 – May 2025
+
+- Developed user interfaces using HTML, CSS, and JavaScript to improve application usability and design
+- Utilized Laravel (PHP framework) to enhance backend performance and streamline development
+- Applied testing and debugging techniques to ensure application stability and performance
+
+---
+
+# 📊 Projects
+
+## 🤖 Abridge – AI Study Notes Generator
+
+- Developed a web application that summarizes documents and generates quizzes using AI
+- Implemented support for *PDF and DOCX uploads* with automated text extraction
+- Integrated *NLP and AI APIs* for intelligent summarization
+- Built using *Flask and React*
+
+---
+
+## 💼 Career Forge AI – Full-Stack SaaS Web App
+
+- Built a SaaS platform that helps users:
+  - Create professional resumes  
+  - Generate AI-powered cover letters  
+  - Track job applications  
+  - Export documents as PDFs  
+- Developed using *Next.js, TypeScript, Prisma, PostgreSQL, Auth.js, Gemini API, and Xendit*
+
+---
+
+# 📚 Currently Learning
+
+- Advanced full-stack development
+- AI and NLP integration in web apps
+- Scalable system design
+- Cloud-based deployment and services
+
+---
+
+# 🤝 Connect With Me
+
+💼 GitHub  
+https://github.com/K10-B  
+
+📧 Email  
+kentbrylep@gmail.com  
+
+📞 Phone  
++63 969 630 7647  
+
+📍 Location  
+Brgy. Tumay, Mina, Iloilo, Philippines  
+
+⭐ Passionate about building modern web applications and AI-powered solutions.
+img.shields.io
